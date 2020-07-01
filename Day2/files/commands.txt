@@ -1,3 +1,4 @@
+Ssh-keygen -t rsa
 terraform init
 terraform validate
 terraform plan -out m3.tfplan
